@@ -1,0 +1,6 @@
+AustinZipCodes.csv
+crime-housing-austin-2015.csv
+.venv/
+.ipynb_checkpoints/
+analysis_outputs/
+_pycache__/
